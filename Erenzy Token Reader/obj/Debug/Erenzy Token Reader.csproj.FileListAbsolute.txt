@@ -1,0 +1,6 @@
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\bin\Debug\Erenzy Token Reader.exe
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\bin\Debug\Erenzy Token Reader.pdb
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Debug\Erenzy Token Reader.csprojAssemblyReference.cache
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Debug\Erenzy Token Reader.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Debug\Erenzy Token Reader.exe
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Debug\Erenzy Token Reader.pdb

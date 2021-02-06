@@ -1,0 +1,5 @@
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\bin\Release\Erenzy Token Reader.exe
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\bin\Release\Erenzy Token Reader.pdb
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Release\Erenzy Token Reader.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Release\Erenzy Token Reader.exe
+C:\Users\eren_\source\repos\Erenzy Token Reader\Erenzy Token Reader\obj\Release\Erenzy Token Reader.pdb
